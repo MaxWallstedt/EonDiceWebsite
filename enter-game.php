@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <title>EonDice</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon-precomposed" href="icons/favicon-152.png">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="icons/favicon-144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="icons/favicon-152.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/favicon-144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="icons/favicon-120.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/favicon-114.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/favicon-72.png">
+  <link rel="apple-touch-icon-precomposed" href="icons/favicon-57.png">
+  <link rel="icon" href="icons/favicon-32.png" sizes="32x32">
 <script defer>
 window.onload = init;
 
